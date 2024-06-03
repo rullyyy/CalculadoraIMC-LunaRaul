@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asignacion04_CalculadoraIMC_Luna" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Asignacion04_CalculadoraIMC_Luna" parent="Base.Theme.Asignacion04_CalculadoraIMC_Luna" />
+</resources>

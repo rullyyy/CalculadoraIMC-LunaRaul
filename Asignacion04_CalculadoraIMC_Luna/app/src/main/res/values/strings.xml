@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asignacion04_CalculadoraIMC_Luna</string>
+    <string name="estatura">Estatura</string>
+    <string name="peso">Peso</string>
+    <string name="IMC">Calcular IMC</string>
+    <string name="resultIMC">IMC</string>
+    <string name="categoria">Categoria</string>
+</resources>
